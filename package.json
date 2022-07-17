@@ -1,0 +1,20 @@
+{
+  "name": "kursikgita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velto123/kursikgita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velto123/kursikgita/issues"
+  },
+  "homepage": "https://github.com/velto123/kursikgita#readme"
+}
